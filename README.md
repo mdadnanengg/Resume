@@ -3,5 +3,5 @@ a collection of certain projects which implement HTML, CSS , JS concepts and Boo
 
 ## links :-
 
-### [resume](http://awesome-villani-337979.netlify.com/)
+### [resume](https://resume-sandy-phi.vercel.app/)
 
